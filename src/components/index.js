@@ -5,4 +5,11 @@ import Stats from './Stats.vue'
 import Tabs from './Tabs.vue'
 import Footer from './Footer.vue'
 
-export { Nav, MainHeader, Presentation, Stats, Tabs, Footer }
+export { 
+    Nav,
+    MainHeader,
+    Presentation,
+    Stats,
+    Tabs,
+    Footer
+}

@@ -3,8 +3,8 @@
     <div>Home view</div>
     <div><Nav /></div>
     <div><MainHeader /></div>
-    <div><Presentation /></div>
-    <div><Presentation /></div>
+    <div><Presentation :oriented="left"/></div>
+    <div><Presentation :oriented="right"/></div>
     <div><Stats /></div>
     <div><Tabs /></div>
     <div><Footer /></div>
